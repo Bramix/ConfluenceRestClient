@@ -2,10 +2,6 @@
 
 A simple Java Client to communicate with the Confluence Rest API.
 
-## SNAPSHOT-1.0
-
-Work in Progress
-
 ## Usage
 
 Create a new Instanz of ConfluenceRestClient and call the Method connect().
